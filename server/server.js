@@ -24,14 +24,17 @@ connectDB();
 
 
 
-app.use(express.json());
+const cors = require("cors");
 
-app.use(
-    cors({
-        origin: process.env.CLIENT_URL || "http://localhost:5173",
-        credentials: true,
-    })
-);
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://ai-interview-preperation-six.vercel.app"
+  ],
+  credentials: true
+}));
+
+app.options("*", cors());
 
 
 
