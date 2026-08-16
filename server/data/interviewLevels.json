@@ -1,0 +1,502 @@
+[
+  {
+    "level": 1,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 2,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 3,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 4,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 5,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 6,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 7,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 8,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 9,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 10,
+    "difficulty": "beginner",
+    "promptTemplate": "Ask a beginner-friendly technical interview question about {skill}. Focus on basic definitions, terminology, or simple 'what is X' / 'what does X do' style understanding. Avoid multi-part or scenario-based questions. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 11,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 12,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 13,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 14,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 15,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 16,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 17,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 18,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 19,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 20,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 21,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 22,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 23,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 24,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 25,
+    "difficulty": "easy",
+    "promptTemplate": "Ask an easy technical interview question about {skill}. It should test practical, everyday usage — e.g. how a common feature works or a simple 'how would you do X' task. Keep it to a single concept. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 26,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 27,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 28,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 29,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 30,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 31,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 32,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 33,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 34,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 35,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 36,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 37,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 38,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 39,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 40,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 41,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 42,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 43,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 44,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 45,
+    "difficulty": "intermediate",
+    "promptTemplate": "Ask an intermediate technical interview question about {skill}. It should require applying the concept to a small realistic scenario, comparing two approaches, or explaining a common gotcha or best practice. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 46,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 47,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 48,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 49,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 50,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 51,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 52,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 53,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 54,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 55,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 56,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 57,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 58,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 59,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 60,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 61,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 62,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 63,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 64,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 65,
+    "difficulty": "intermediate-advanced",
+    "promptTemplate": "Ask an intermediate-advanced technical interview question about {skill}. It should involve debugging a described issue, reasoning about performance or trade-offs, or explaining how something works internally. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 66,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 67,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 68,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 69,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 70,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 71,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 72,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 73,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 74,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 75,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 76,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 77,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 78,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 79,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 80,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 81,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 82,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 83,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 84,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 85,
+    "difficulty": "advanced",
+    "promptTemplate": "Ask an advanced technical interview question about {skill}. It should involve system design considerations, optimization under constraints, handling edge cases, or architectural decision-making. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 86,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 87,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 88,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 89,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 90,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 91,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 92,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 93,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 94,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 95,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 96,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 97,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 98,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 99,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  },
+  {
+    "level": 100,
+    "difficulty": "expert",
+    "promptTemplate": "Ask an expert-level technical interview question about {skill}. It should probe deep internals, real-world production trade-offs, scaling concerns, or require synthesizing multiple advanced concepts together. Return ONLY the interview question text — no preamble, no answer, no markdown."
+  }
+]
