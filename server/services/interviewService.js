@@ -5,7 +5,7 @@ import { generateContent } from "./geminiClient.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const PASS_THRESHOLD = 91;
+const PASS_THRESHOLD = 60;
 
 
 

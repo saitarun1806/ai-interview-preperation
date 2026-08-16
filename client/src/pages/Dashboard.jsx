@@ -384,7 +384,7 @@ function Dashboard() {
   
   
   const fetchQuestion = async () => {
-    if (questionLoading || submittingAnswer || activeQuestion) return;
+    if (questionLoading) return;
 
     setQuestionError("");
     setAnswerText("");
@@ -456,6 +456,7 @@ function Dashboard() {
         setActiveQuestion(null);
         await submitLevelForGrading();
       } else {
+        setActiveQuestion(null);
         await fetchQuestion();
       }
     } catch (err) {
@@ -945,7 +946,9 @@ function Dashboard() {
                               </span>
                             )}
                           </p>
-                          {r.feedback && <p className="entry-desc">{r.feedback}</p>}
+                          {q?.question && <p className="entry-sub"><strong>Question:</strong> {q.question}</p>}
+                          {q?.answer && <p className="entry-sub"><strong>Your Answer:</strong> {q.answer}</p>}
+                          {r.feedback && <p className="entry-desc"><strong>Feedback:</strong> {r.feedback}</p>}
                         </div>
                       );
                     })}
