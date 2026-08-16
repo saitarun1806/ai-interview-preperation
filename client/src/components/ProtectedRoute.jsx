@@ -6,7 +6,7 @@ function ProtectedRoute() {
         localStorage.removeItem("token");
         localStorage.removeItem("user");
 
-        return <Navigate to="/login" replace />;
+        return <Navigate to="/" replace />;
     }
 
     return <Outlet />;

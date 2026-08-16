@@ -43,7 +43,7 @@ function Home() {
     return (
         <div className="home">
             <nav className="home-nav">
-                <span className="home-brand">Ascend</span>
+                <span className="home-brand">AI Interview Preparation</span>
                 <div className="home-nav-actions">
                     <button
                         className="home-nav-link"
@@ -157,7 +157,7 @@ function Home() {
             </section>
 
             <footer className="home-footer">
-                <span>Ascend</span>
+                <span>AI Interview Preparation</span>
                 <span className="home-footer-note">
                     Built to make the next interview feel like the tenth one.
                 </span>
